@@ -1,0 +1,26 @@
+# Python & environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+config.py
+
+# Generated audio / uploads
+*.mp3
+*.wav
+output.mp3
+input.wav
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
+
+
+config.py
